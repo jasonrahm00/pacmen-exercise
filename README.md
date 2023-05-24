@@ -12,7 +12,7 @@ The goal of the exercise is to create a simple game where users can click a butt
 - Rotate between the mouth-open and mouth-close image whenever the pacman moves
 ### Improvement Roadmap
 - Add a reset button to clear the screen of all pacmen and clear the timeout
-- add a gameboard/container for the pacmen so they don't move over the buttons and obstruct potential button clicks
+- Add a gameboard/container for the pacmen so they don't move over the buttons and obstruct potential button clicks
 - Adjust the velocity/focus so the mouth open/closed images don't flip so often; they're moving really fast currently 
 ## Implementation
 - Clone, fork or download the repository
